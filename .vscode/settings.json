@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/interfaces",
+        "./src/database",
+        "./src/views",
+        "./src/utils"
+    ]
+}
